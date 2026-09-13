@@ -30,16 +30,6 @@ Tổng hợp các đề thi:
 * Bài tập theo mức độ khó.
 * Bài tập có hướng dẫn hoặc lời giải tham khảo.
 
-### 📑 Tài liệu tham khảo
-
-Bao gồm:
-
-* Giáo trình
-* Slide bài giảng
-* Chuyên đề thuật toán
-* Tài liệu ôn thi
-* Tài liệu tham khảo từ các nguồn công khai
-
 ## 🤝 Đóng góp
 
 Nếu bạn có tài liệu, đề thi hoặc bài tập phù hợp với mục tiêu của repository, có thể đóng góp bằng cách:
